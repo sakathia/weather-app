@@ -1,0 +1,16 @@
+#title {
+    text-align: center;
+  }
+  
+  .weather-display {
+    text-align: center;
+  }
+  
+  .weather-display img {
+    width: 25%;
+  }
+  
+  .weather-display p {
+    font-size: 150%;
+    margin-top: -3%;
+  }
